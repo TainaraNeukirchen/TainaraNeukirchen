@@ -1,4 +1,4 @@
-## Oiii eu sou a Tainara Neukirchen, sou estudante de programação e marketing! 🖤
+## Fala Dev! Pode me chamar de Tai, sou estudante de programação e marketing! 🖤
 
 
 <div style="display: inline_block"><br>
