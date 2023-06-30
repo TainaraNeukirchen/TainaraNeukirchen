@@ -25,5 +25,3 @@
 </div>
 <div style="display: inline_block"><br>
 <div> 
-
-![Snakeanimation](https://github.com/tainaraneukirchen/tainaraneukirchen/blob/output/github-contribution-grid-snake.svg)
