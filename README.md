@@ -10,6 +10,8 @@
 <div style="display: inline_block"><br>
 
 ![Neukirchen GitHub stats](https://github-readme-stats.vercel.app/api?username=tainaraneukirchen&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainaraneukirchen&hide_progress=true&theme=dark)
+
 
 ## Tecnologias do meu dia
 
@@ -23,3 +25,5 @@
 </div>
 <div style="display: inline_block"><br>
 <div> 
+
+![Snakeanimation](https://github.com/tainaraneukirchen/tainaraneukirchen/blob/output/github-contribution-grid-snake.svg)
